@@ -13,8 +13,6 @@ written by Ken Lambert and Martin Osborne.
 PLATFORMS: The package is a wrapper around tkinter (Python 3.X) and should
 run on any platform where tkinter is available.
 
-INSTALLATION: Put this file where Python can see it.
-
 """
 
 import tkinter
